@@ -1,0 +1,12 @@
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+form{
+	width: 60;
+	border: 1px solid black;
+	margin: 20px;
+	padding: 10px;
+	background: grey;
+}
